@@ -1,2 +1,2 @@
-# react-app
-Next.js, React, TypeScript
+# Next.js, React, TypeScript
+todo: https://nextjs.org/docs/
